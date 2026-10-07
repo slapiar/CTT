@@ -30,4 +30,4 @@ Glóbus používa elipsoid bez externých mapových snímok a terénu. Nepotrebu
 
 Ďalšie ostrovy vzniknú najprv ako dátové balíky; samostatnú aplikáciu pridáme iba pri samostatnom používateľskom rozhraní alebo nasadení. Nevytvárame prázdne kópie aplikácií.
 
-Pozri [architektúru](docs/ARCHITECTURE.md) a [vývoj](docs/DEVELOPMENT.md).
+Pozri [architektúru](docs/ARCHITECTURE.md), [vývoj](docs/DEVELOPMENT.md) a [históriu zmien](CHANGELOG.md).
