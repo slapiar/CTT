@@ -1,5 +1,7 @@
 # Pravidlá vývoja CTT
 
+- Pojmy, princípy, názvy, mottá, slogany a headlines eviduj v docs/ONTOLOGY.md s významom, vzťahmi, stavom a pôvodom. Zachovávaj presné schválené znenie a stabilné ID; pracovné definície a návrhy označuj.
+
 - Prečítaj README.md a docs/ARCHITECTURE.md pred zmenou štruktúry.
 - Zachovaj npm workspaces, jeden koreňový lockfile a privátne @ctt balíky.
 - Neimportuj aplikácie z balíkov ani interné cesty iného balíka.
