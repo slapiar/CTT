@@ -5,6 +5,7 @@ Zapisujeme podstatné zmeny, opravy a stav overenia. Najnovšie záznamy sú hor
 ## Nevydané
 
 ### Pridané
+- Základ ontológie v docs/ONTOLOGY.md: pojmy a vzťahy, axióma „Virtuosity attracts curiosity.“, názvový prvok FLY-FREE a pravidlá evidence mott, sloganov a headlines. Pracovné definície sú odlíšené od prijatých formulácií.
 - Tento changelog, odkaz z README a pravidlo jeho priebežnej aktualizácie.
 - Plán budúceho overenia WebGPU a vyhodnotenia Babylon LITE; vývojový základ zostáva Babylon.js.
 
