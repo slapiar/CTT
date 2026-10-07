@@ -1,0 +1,13 @@
+{
+  "name": "@ctt/map",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "dependencies": {
+    "cesium": "1.146.0",
+    "@ctt/tourism": "0.1.0"
+  }
+}
